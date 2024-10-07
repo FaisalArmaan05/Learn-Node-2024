@@ -1,0 +1,32 @@
+{
+  "name": "learn-node-2024",
+  "version": "1.0.0",
+  "description": "Learning node.js from code step by step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaisalArmaan05/Learn-Node-2024.git"
+  },
+  "keywords": [
+    "learning",
+    "Node.js",
+    "from",
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "Faisal muneer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaisalArmaan05/Learn-Node-2024/issues"
+  },
+  "homepage": "https://github.com/FaisalArmaan05/Learn-Node-2024#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
